@@ -1,13 +1,16 @@
-Ausgangssituation
+1. Ausgangssituation
+   	Erhalt der Aufgabe ein Repository zu erstellen und in Zweier-Teams zu bearbeiten.
 		
-Projektziel
+3. Projektziel
 		
-Organisatorische und technische Rahmenbedingungen
+4. Organisatorische und technische Rahmenbedingungen
 		
-Planung
-		
-
+5. Planung
+					
+	1. Projektteam
+    		Huber Jürgen
+    		Mann Ralph
 			
-Projektteam
-			
-Meilensteine
+	3. Meilensteine
+    		Projekt erstellen - check
+    		ReadMe bearbeiten - in progress
