@@ -1,10 +1,12 @@
-<b>1. Ausgangssituation</b>e
+<b>1. Ausgangssituation</b>
 
 Erhalt der Aufgabe ein Repository zu erstellen und in Zweier-Teams zu bearbeiten.
+
 		
 2. Projektziel
+3. 
 
-3. Organisatorische und technische Rahmenbedingungen
+4. Organisatorische und technische Rahmenbedingungen
 
    API-Schnittellen
    
