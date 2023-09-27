@@ -1,8 +1,13 @@
-# GitDemo
-First demo of *Git* functionalities
+Ausgangssituation
+		
+Projektziel
+		
+Organisatorische und technische Rahmenbedingungen
+		
+Planung
+		
 
-## Idea
-Use **GitHub** to create a new file, then commit and show a basic process.
-
-## Next Step
-Clone the repo onto your computer. Das war ich :-)
+			
+Projektteam
+			
+Meilensteine
