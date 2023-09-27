@@ -1,24 +1,27 @@
 <b>1. Ausgangssituation</b>
 
-Erhalt der Aufgabe ein Repository zu erstellen und in Zweier-Teams zu bearbeiten.
+    Erhalt der Aufgabe ein Repository zu erstellen und in Zweier-Teams zu bearbeiten.
 
 		
 2. Projektziel
-   
 
-4. Organisatorische und technische Rahmenbedingungen
+    Firmendaten von Aktiengesellschaften ausgeben und in einem Dashboard ausgeben.
+		
+3. Organisatorische und technische Rahmenbedingungen
 
-   API-Schnittellen
+      API-Schnittellen
    
+         
+4. Planung
 
 		
-5. Planung				
 	1. Projektteam
 
     		Huber Jürgen
     		Mann Ralph
 			
-	3. Meilensteine
+
+	2. Meilensteine
 
     		Projekt erstellen - check
     		ReadMe bearbeiten - in progress
