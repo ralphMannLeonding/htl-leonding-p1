@@ -1,4 +1,4 @@
-1. Ausgangssituation
+<b>1. Ausgangssituation</b>
 
    	Erhalt der Aufgabe ein Repository zu erstellen und in Zweier-Teams zu bearbeiten.
 		
