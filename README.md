@@ -4,7 +4,7 @@ Erhalt der Aufgabe ein Repository zu erstellen und in Zweier-Teams zu bearbeiten
 
 		
 2. Projektziel
-3. 
+   
 
 4. Organisatorische und technische Rahmenbedingungen
 
