@@ -16,11 +16,11 @@
 		
 	1. Projektteam
 
-    		Huber Jürgen
-    		Mann Ralph
+		Huber Jürgen
+		Mann Ralph
 			
 	2. Meilensteine
 
-    		Projekt erstellen - check
-    		ReadMe bearbeiten - in progress
+	Projekt erstellen - check
+	ReadMe bearbeiten - in progress
 ---------------------------------------------------------------------
