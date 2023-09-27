@@ -3,16 +3,16 @@
     Erhalt der Aufgabe ein Repository zu erstellen und in Zweier-Teams zu bearbeiten.
 
 		
-2. Projektziel
+<b>2. Projektziel</b>
 
     Firmendaten von Aktiengesellschaften ausgeben und in einem Dashboard ausgeben.
 		
-3. Organisatorische und technische Rahmenbedingungen
+<b>3. Organisatorische und technische Rahmenbedingungen</b>
 
       API-Schnittellen
    
          
-4. Planung
+<b>4. Planung</b>
 
 		
 	1. Projektteam
